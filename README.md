@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanjalikarande" alt="shivanjalikarande" /></a> </p>
 
-- 🌱 I’m currently learning **Java, React.js**
-
-- 👯 I’m looking to collaborate on **GSSoC Open Sorce Program 2024 (Web Development Projects)**
-
-- 💬 Ask me about **Python, C++, Java, HTML, CSS, JavaScript, Node.js, Express.js, MySQL, MongoDB**
+- 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, Node.js, Express.js, MySQL, MongoDB**
 
 - 📫 How to reach me **shivanjalikarande1@gmail.com**
 
