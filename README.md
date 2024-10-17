@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanjalikarande" alt="shivanjalikarande" /></a> </p>
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, Node.js, Express.js, MySQL, MongoDB**
+- Contributor in Open Source Program 🌟 **Girlscript Summer of Code** 🌟
 
 - 📫 How to reach me **shivanjalikarande1@gmail.com**
 
