@@ -17,8 +17,10 @@
 <a href="https://discord.gg/1172710008287395932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1172710008287395932" height="30" width="40" /></a>
 </p>
 <br>
-<b>GSSOC'24 Extended Badge 🪶</b><br>
+<b>GSSOC'24 Extended Badges 🪶</b><br>
+
 <div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
 </div>
 
