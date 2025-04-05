@@ -17,7 +17,7 @@
 <a href="https://discord.gg/1172710008287395932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1172710008287395932" height="30" width="40" /></a>
 </p>
 <br>
-<h3>GSSoC-Ext'24 Badges 🪶</h3>
+<h3>GSSoC-Ext'24 Badges🪶</h3>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -29,7 +29,7 @@
 </div>
 
 <br>
-<h3>Hacktoberfest'24 Badges 🪶</h3>
+<h3>Hacktoberfest'24 Badges🪶</h3>
 
 [![An image of @shivanjalikarande's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanjalikarande)](https://holopin.io/@shivanjalikarande)
 
